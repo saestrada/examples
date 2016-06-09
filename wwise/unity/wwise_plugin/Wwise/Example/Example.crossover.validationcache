@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="72">
+	<ValidationCacheItem File="Y:\Workspace\Projects\Enzien\examples\wwise\unity\wwise_plugin\Wwise\Example\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="2167546368" DateHigh="30523867"/>
+	<ValidationCacheItem File="Y:\Workspace\Projects\Enzien\examples\wwise\unity\wwise_plugin\Wwise\Example\Attenuations\Default Work Unit.wwu" DateLow="3487480960" DateHigh="30523865"/>
+	<ValidationCacheItem File="Y:\Workspace\Projects\Enzien\examples\wwise\unity\wwise_plugin\Wwise\Example\Audio Devices\Default Work Unit.wwu" DateLow="3487480960" DateHigh="30523865"/>
+	<ValidationCacheItem File="Y:\Workspace\Projects\Enzien\examples\wwise\unity\wwise_plugin\Wwise\Example\Control Surface Sessions\Default Work Unit.wwu" DateLow="3487480960" DateHigh="30523865"/>
+	<ValidationCacheItem File="Y:\Workspace\Projects\Enzien\examples\wwise\unity\wwise_plugin\Wwise\Example\Conversion Settings\Default Work Unit.wwu" DateLow="3487480960" DateHigh="30523865"/>
+	<ValidationCacheItem File="Y:\Workspace\Projects\Enzien\examples\wwise\unity\wwise_plugin\Wwise\Example\Conversion Settings\Factory Conversion Settings.wwu" DateLow="2278843392" DateHigh="30523448"/>
+	<ValidationCacheItem File="Y:\Workspace\Projects\Enzien\examples\wwise\unity\wwise_plugin\Wwise\Example\Dynamic Dialogue\Default Work Unit.wwu" DateLow="3487480960" DateHigh="30523865"/>
+	<ValidationCacheItem File="Y:\Workspace\Projects\Enzien\examples\wwise\unity\wwise_plugin\Wwise\Example\Effects\Default Work Unit.wwu" DateLow="3487480960" DateHigh="30523865"/>
+	<ValidationCacheItem File="Y:\Workspace\Projects\Enzien\examples\wwise\unity\wwise_plugin\Wwise\Example\Effects\Factory Effects.wwu" DateLow="2278843392" DateHigh="30523448"/>
+	<ValidationCacheItem File="Y:\Workspace\Projects\Enzien\examples\wwise\unity\wwise_plugin\Wwise\Example\Events\Default Work Unit.wwu" DateLow="2437546368" DateHigh="30523867"/>
+	<ValidationCacheItem File="Y:\Workspace\Projects\Enzien\examples\wwise\unity\wwise_plugin\Wwise\Example\Example.crossover.wsettings" DateLow="2937546368" DateHigh="30523867"/>
+	<ValidationCacheItem File="Y:\Workspace\Projects\Enzien\examples\wwise\unity\wwise_plugin\Wwise\Example\Example.wproj" DateLow="2167546368" DateHigh="30523867"/>
+	<ValidationCacheItem File="Y:\Workspace\Projects\Enzien\examples\wwise\unity\wwise_plugin\Wwise\Example\Game Parameters\Default Work Unit.wwu" DateLow="3487480960" DateHigh="30523865"/>
+	<ValidationCacheItem File="Y:\Workspace\Projects\Enzien\examples\wwise\unity\wwise_plugin\Wwise\Example\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="3487480960" DateHigh="30523865"/>
+	<ValidationCacheItem File="Y:\Workspace\Projects\Enzien\examples\wwise\unity\wwise_plugin\Wwise\Example\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="3487480960" DateHigh="30523865"/>
+	<ValidationCacheItem File="Y:\Workspace\Projects\Enzien\examples\wwise\unity\wwise_plugin\Wwise\Example\Mixing Sessions\Default Work Unit.wwu" DateLow="3487480960" DateHigh="30523865"/>
+	<ValidationCacheItem File="Y:\Workspace\Projects\Enzien\examples\wwise\unity\wwise_plugin\Wwise\Example\Modulators\Default Work Unit.wwu" DateLow="3487480960" DateHigh="30523865"/>
+	<ValidationCacheItem File="Y:\Workspace\Projects\Enzien\examples\wwise\unity\wwise_plugin\Wwise\Example\Presets\Default Work Unit.wwu" DateLow="3487480960" DateHigh="30523865"/>
+	<ValidationCacheItem File="Y:\Workspace\Projects\Enzien\examples\wwise\unity\wwise_plugin\Wwise\Example\Queries\Default Work Unit.wwu" DateLow="3487480960" DateHigh="30523865"/>
+	<ValidationCacheItem File="Y:\Workspace\Projects\Enzien\examples\wwise\unity\wwise_plugin\Wwise\Example\Queries\Factory Queries.wwu" DateLow="2278843392" DateHigh="30523448"/>
+	<ValidationCacheItem File="Y:\Workspace\Projects\Enzien\examples\wwise\unity\wwise_plugin\Wwise\Example\SoundBanks\Default Work Unit.wwu" DateLow="2487546368" DateHigh="30523867"/>
+	<ValidationCacheItem File="Y:\Workspace\Projects\Enzien\examples\wwise\unity\wwise_plugin\Wwise\Example\Soundcaster Sessions\Default Work Unit.wwu" DateLow="3487480960" DateHigh="30523865"/>
+	<ValidationCacheItem File="Y:\Workspace\Projects\Enzien\examples\wwise\unity\wwise_plugin\Wwise\Example\States\Default Work Unit.wwu" DateLow="3487480960" DateHigh="30523865"/>
+	<ValidationCacheItem File="Y:\Workspace\Projects\Enzien\examples\wwise\unity\wwise_plugin\Wwise\Example\Switches\Default Work Unit.wwu" DateLow="3487480960" DateHigh="30523865"/>
+	<ValidationCacheItem File="Y:\Workspace\Projects\Enzien\examples\wwise\unity\wwise_plugin\Wwise\Example\Triggers\Default Work Unit.wwu" DateLow="3487480960" DateHigh="30523865"/>
+</ValidationCache>

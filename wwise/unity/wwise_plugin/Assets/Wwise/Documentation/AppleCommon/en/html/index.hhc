@@ -1,0 +1,157 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Wwise Unity Integration"><param name="Local" value="main.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Release Notes"><param name="Local" value="pg__releasenotes.html"><param name="ImageNumber" value="11"></OBJECT>
+    <UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Installing or Upgrading the Integration in a Unity Project"><param name="Local" value="pg__installation.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Prerequisites"><param name="Local" value="pg__requsinginte.html"><param name="ImageNumber" value="11"></OBJECT>
+      <UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Installing a Wwise Integration Package for the First Time"><param name="Local" value="pg__installunitypackage.html"><param name="ImageNumber" value="11"></OBJECT>
+      <UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Changes Made to Your Unity Project"><param name="Local" value="pg__installprojectchange.html"><param name="ImageNumber" value="11"></OBJECT>
+      <UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Integrating Sounds in Your Game"><param name="Local" value="pg__installvalidation.html"><param name="ImageNumber" value="11"></OBJECT>
+      <UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Where Should My SoundBanks Be Located?"><param name="Local" value="pg__soundbank__location.html"><param name="ImageNumber" value="11"></OBJECT>
+      <UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Adding Plug-ins"><param name="Local" value="pg__install__addlicensedplugins.html"><param name="ImageNumber" value="11"></OBJECT>
+      <UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Updating/Upgrading the Wwise Integration Package to a Newer Version"><param name="Local" value="pg__updating.html"><param name="ImageNumber" value="11"></OBJECT>
+      <UL>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Uninstalling the Wwise Integration Package"><param name="Local" value="pg__uninstalling.html"><param name="ImageNumber" value="11"></OBJECT>
+    <UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Using Wwise Components in Unity"><param name="Local" value="pg__appscripts.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Wwise Picker"><param name="Local" value="unity__picker.html"><param name="ImageNumber" value="11"></OBJECT>
+      <UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Adding New Triggers for Wwise Events"><param name="Local" value="unity__add__triggers.html"><param name="ImageNumber" value="11"></OBJECT>
+      <UL>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Build your Unity Game for a Target Platform"><param name="Local" value="pg__deploy.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Build for Android"><param name="Local" value="pg__builddeployandroid.html"><param name="ImageNumber" value="11"></OBJECT>
+      <UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Build for iOS"><param name="Local" value="pg__howtobuilddeployios.html"><param name="ImageNumber" value="11"></OBJECT>
+      <UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Build for Linux"><param name="Local" value="pg__howtobuilddeploylinux.html"><param name="ImageNumber" value="11"></OBJECT>
+      <UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Build the Application for a Multi-architecture Platform"><param name="Local" value="pg__howtobuildmultiarch.html"><param name="ImageNumber" value="11"></OBJECT>
+      <UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Using Wwise Custom Platforms in Unity"><param name="Local" value="pg__customplatforms.html"><param name="ImageNumber" value="11"></OBJECT>
+      <UL>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Making DLCs with Wwise and Unity"><param name="Local" value="pg__unity__dlc.html"><param name="ImageNumber" value="11"></OBJECT>
+    <UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Build the Native Integration Plug-in from Source"><param name="Local" value="pg__building.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Build Log"><param name="Local" value="pg__buildlog.html"><param name="ImageNumber" value="11"></OBJECT>
+      <UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Build the Integration for PS3"><param name="Local" value="pg__buildps3.html"><param name="ImageNumber" value="11"></OBJECT>
+      <UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Build the Integration for Xbox 360"><param name="Local" value="pg__buildxbox360.html"><param name="ImageNumber" value="11"></OBJECT>
+      <UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Updating/Upgrading the Wwise Integration Package to a Newer Version When You Have Modified the Plug-in's C++ Code"><param name="Local" value="pg__updating__modified__code.html"><param name="ImageNumber" value="11"></OBJECT>
+      <UL>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="API Changes and Limitations"><param name="Local" value="pg__limitations.html"><param name="ImageNumber" value="11"></OBJECT>
+    <UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Platform-Specific Information"><param name="Local" value="pg__platforms.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Background Mode (Android)"><param name="Local" value="pg__pauseresumeandroid.html"><param name="ImageNumber" value="11"></OBJECT>
+      <UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Using OBB Files (Android)"><param name="Local" value="pg__loadbankobb.html"><param name="ImageNumber" value="11"></OBJECT>
+      <UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Audio Session Interruptions (iOS)"><param name="Local" value="pg__audiosessionios.html"><param name="ImageNumber" value="11"></OBJECT>
+      <UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Windows Store Apps Specific Information"><param name="Local" value="pg___w_s_a_info.html"><param name="ImageNumber" value="11"></OBJECT>
+      <UL>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Licensing (Free & Commercial)"><param name="Local" value="pg__licensing.html"><param name="ImageNumber" value="11"></OBJECT>
+    <UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Wwise Demo Scene"><param name="Local" value="pg__wwisedemoscene.html"><param name="ImageNumber" value="11"></OBJECT>
+    <UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Troubleshooting"><param name="Local" value="unity__troubleshooting.html"><param name="ImageNumber" value="11"></OBJECT>
+    <UL>
+    </UL>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Class List"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="AkAmbient"><param name="Local" value="class_ak_ambient.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="AkAudioListener"><param name="Local" value="class_ak_audio_listener.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="AkBank"><param name="Local" value="class_ak_bank.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="AkBankManager"><param name="Local" value="class_ak_bank_manager.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="AkEnvironment"><param name="Local" value="class_ak_environment.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="AkEnvironment::AkEnvironment_CompareBySelectionAlgorithm"><param name="Local" value="class_ak_environment_1_1_ak_environment___compare_by_selection_algorithm.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="AkEnvironmentPortal"><param name="Local" value="class_ak_environment_portal.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="AkEvent"><param name="Local" value="class_ak_event.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="AkEventCallbackMsg"><param name="Local" value="struct_ak_event_callback_msg.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="AkGameObj"><param name="Local" value="class_ak_game_obj.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="AkInitializer"><param name="Local" value="class_ak_initializer.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="AkMemBankLoader"><param name="Local" value="class_ak_mem_bank_loader.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="AkState"><param name="Local" value="class_ak_state.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="AkSwitch"><param name="Local" value="class_ak_switch.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="AkTerminator"><param name="Local" value="class_ak_terminator.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="AkTriggerBase"><param name="Local" value="class_ak_trigger_base.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="AkUtilities"><param name="Local" value="class_ak_utilities.html"><param name="ImageNumber" value="11"></OBJECT>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Class Hierarchy"><param name="Local" value="hierarchy.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="AkAudioListener"><param name="Local" value="class_ak_audio_listener.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="AkBank"><param name="Local" value="class_ak_bank.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="AkBankManager"><param name="Local" value="class_ak_bank_manager.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="AkEnvironment"><param name="Local" value="class_ak_environment.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="AkEnvironment::AkEnvironment_CompareBySelectionAlgorithm"><param name="Local" value="class_ak_environment_1_1_ak_environment___compare_by_selection_algorithm.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="AkEnvironmentPortal"><param name="Local" value="class_ak_environment_portal.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="AkEvent"><param name="Local" value="class_ak_event.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AkAmbient"><param name="Local" value="class_ak_ambient.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="AkEventCallbackMsg"><param name="Local" value="struct_ak_event_callback_msg.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="AkGameObj"><param name="Local" value="class_ak_game_obj.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="AkInitializer"><param name="Local" value="class_ak_initializer.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="AkMemBankLoader"><param name="Local" value="class_ak_mem_bank_loader.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="AkState"><param name="Local" value="class_ak_state.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="AkSwitch"><param name="Local" value="class_ak_switch.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="AkTerminator"><param name="Local" value="class_ak_terminator.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="AkTriggerBase"><param name="Local" value="class_ak_trigger_base.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="AkUtilities"><param name="Local" value="class_ak_utilities.html"><param name="ImageNumber" value="11"></OBJECT>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Class Members"><param name="Local" value="functions.html"><param name="ImageNumber" value="11"></OBJECT>
+</UL>
+</BODY>
+</HTML>

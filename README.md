@@ -16,3 +16,8 @@
 * Shows how to set up a PortAudio wrapper and audio callback.
 * Example of using the short (16 bit integer) process method.
 
+
+#####[Wwise - Unity Integration](https://github.com/enzienaudio/examples/tree/master/wwise/unity/wwise_plugin)
+
+* Example of creating a Wwise Source Plugin and integrating it into a Unity project.
+

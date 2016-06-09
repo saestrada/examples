@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PluginInfo Project="Example" Platform="iOS" BasePlatform="iOS" Motion="false">
+	<Plugins>
+		<Plugin Name="sine" ID="6554626" DLL="HV_sine_WwiseSourceRuntimePlugin"/>
+	</Plugins>
+</PluginInfo>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{62AA524E-C587-45C0-8122-D8AA77BC721D}" SchemaVersion="72">
+	<AudioObjects>
+		<WorkUnit Name="Default Work Unit" ID="{62AA524E-C587-45C0-8122-D8AA77BC721D}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="sine" ID="{573F4941-B9C3-4243-9286-CFF77CBD3D9D}" ShortID="86060676" Type="SoundFX">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B452CBA1-40BB-4B4C-9946-86CAA4C1E55C}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{F14B7919-C9A4-4474-A845-A622D6CDE180}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<SourcePlugin Name="sine" ID="{3B536655-068B-41D1-A523-34057EB293B2}" ShortID="448147150" PluginName="sine" CompanyID="64" PluginID="100">
+							<Language>SFX</Language>
+						</SourcePlugin>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="sine" ID="{3B536655-068B-41D1-A523-34057EB293B2}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

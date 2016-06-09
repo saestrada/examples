@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DocSetNodes version="1.0">
+  <TOC>
+    <Node>
+      <Name>Root</Name>
+      <Path>main.html</Path>
+      <Subnodes>
+       <Node>
+        <Name>Wwise Unity Integration</Name>
+        <Path>main.html</Path>
+        <Subnodes>
+         <Node>
+          <Name>Release Notes</Name>
+          <Path>pg__releasenotes.html</Path>
+          <Subnodes>
+          </Subnodes>
+         </Node>
+         <Node>
+          <Name>Installing or Upgrading the Integration in a Unity Project</Name>
+          <Path>pg__installation.html</Path>
+          <Subnodes>
+           <Node>
+            <Name>Prerequisites</Name>
+            <Path>pg__requsinginte.html</Path>
+            <Subnodes>
+            </Subnodes>
+           </Node>
+           <Node>
+            <Name>Installing a Wwise Integration Package for the First Time</Name>
+            <Path>pg__installunitypackage.html</Path>
+            <Subnodes>
+            </Subnodes>
+           </Node>
+           <Node>
+            <Name>Changes Made to Your Unity Project</Name>
+            <Path>pg__installprojectchange.html</Path>
+            <Subnodes>
+            </Subnodes>
+           </Node>
+           <Node>
+            <Name>Integrating Sounds in Your Game</Name>
+            <Path>pg__installvalidation.html</Path>
+            <Subnodes>
+            </Subnodes>
+           </Node>
+           <Node>
+            <Name>Where Should My SoundBanks Be Located?</Name>
+            <Path>pg__soundbank__location.html</Path>
+            <Subnodes>
+            </Subnodes>
+           </Node>
+           <Node>
+            <Name>Adding Plug-ins</Name>
+            <Path>pg__install__addlicensedplugins.html</Path>
+            <Subnodes>
+            </Subnodes>
+           </Node>
+           <Node>
+            <Name>Updating/Upgrading the Wwise Integration Package to a Newer Version</Name>
+            <Path>pg__updating.html</Path>
+            <Subnodes>
+            </Subnodes>
+           </Node>
+          </Subnodes>
+         </Node>
+         <Node>
+          <Name>Uninstalling the Wwise Integration Package</Name>
+          <Path>pg__uninstalling.html</Path>
+          <Subnodes>
+          </Subnodes>
+         </Node>
+         <Node>
+          <Name>Using Wwise Components in Unity</Name>
+          <Path>pg__appscripts.html</Path>
+          <Subnodes>
+           <Node>
+            <Name>Wwise Picker</Name>
+            <Path>unity__picker.html</Path>
+            <Subnodes>
+            </Subnodes>
+           </Node>
+           <Node>
+            <Name>Adding New Triggers for Wwise Events</Name>
+            <Path>unity__add__triggers.html</Path>
+            <Subnodes>
+            </Subnodes>
+           </Node>
+          </Subnodes>
+         </Node>
+         <Node>
+          <Name>Build your Unity Game for a Target Platform</Name>
+          <Path>pg__deploy.html</Path>
+          <Subnodes>
+           <Node>
+            <Name>Build for Android</Name>
+            <Path>pg__builddeployandroid.html</Path>
+            <Subnodes>
+            </Subnodes>
+           </Node>
+           <Node>
+            <Name>Build for iOS</Name>
+            <Path>pg__howtobuilddeployios.html</Path>
+            <Subnodes>
+            </Subnodes>
+           </Node>
+           <Node>
+            <Name>Build for Linux</Name>
+            <Path>pg__howtobuilddeploylinux.html</Path>
+            <Subnodes>
+            </Subnodes>
+           </Node>
+           <Node>
+            <Name>Build the Application for a Multi-architecture Platform</Name>
+            <Path>pg__howtobuildmultiarch.html</Path>
+            <Subnodes>
+            </Subnodes>
+           </Node>
+           <Node>
+            <Name>Using Wwise Custom Platforms in Unity</Name>
+            <Path>pg__customplatforms.html</Path>
+            <Subnodes>
+            </Subnodes>
+           </Node>
+          </Subnodes>
+         </Node>
+         <Node>
+          <Name>Making DLCs with Wwise and Unity</Name>
+          <Path>pg__unity__dlc.html</Path>
+          <Subnodes>
+          </Subnodes>
+         </Node>
+         <Node>
+          <Name>Build the Native Integration Plug-in from Source</Name>
+          <Path>pg__building.html</Path>
+          <Subnodes>
+           <Node>
+            <Name>Build Log</Name>
+            <Path>pg__buildlog.html</Path>
+            <Subnodes>
+            </Subnodes>
+           </Node>
+           <Node>
+            <Name>Build the Integration for PS3</Name>
+            <Path>pg__buildps3.html</Path>
+            <Subnodes>
+            </Subnodes>
+           </Node>
+           <Node>
+            <Name>Build the Integration for Xbox 360</Name>
+            <Path>pg__buildxbox360.html</Path>
+            <Subnodes>
+            </Subnodes>
+           </Node>
+           <Node>
+            <Name>Updating/Upgrading the Wwise Integration Package to a Newer Version When You Have Modified the Plug-in&apos;s C++ Code</Name>
+            <Path>pg__updating__modified__code.html</Path>
+            <Subnodes>
+            </Subnodes>
+           </Node>
+          </Subnodes>
+         </Node>
+         <Node>
+          <Name>API Changes and Limitations</Name>
+          <Path>pg__limitations.html</Path>
+          <Subnodes>
+          </Subnodes>
+         </Node>
+         <Node>
+          <Name>Platform-Specific Information</Name>
+          <Path>pg__platforms.html</Path>
+          <Subnodes>
+           <Node>
+            <Name>Background Mode (Android)</Name>
+            <Path>pg__pauseresumeandroid.html</Path>
+            <Subnodes>
+            </Subnodes>
+           </Node>
+           <Node>
+            <Name>Using OBB Files (Android)</Name>
+            <Path>pg__loadbankobb.html</Path>
+            <Subnodes>
+            </Subnodes>
+           </Node>
+           <Node>
+            <Name>Audio Session Interruptions (iOS)</Name>
+            <Path>pg__audiosessionios.html</Path>
+            <Subnodes>
+            </Subnodes>
+           </Node>
+           <Node>
+            <Name>Windows Store Apps Specific Information</Name>
+            <Path>pg___w_s_a_info.html</Path>
+            <Subnodes>
+            </Subnodes>
+           </Node>
+          </Subnodes>
+         </Node>
+         <Node>
+          <Name>Licensing (Free &amp; Commercial)</Name>
+          <Path>pg__licensing.html</Path>
+          <Subnodes>
+          </Subnodes>
+         </Node>
+         <Node>
+          <Name>Wwise Demo Scene</Name>
+          <Path>pg__wwisedemoscene.html</Path>
+          <Subnodes>
+          </Subnodes>
+         </Node>
+         <Node>
+          <Name>Troubleshooting</Name>
+          <Path>unity__troubleshooting.html</Path>
+          <Subnodes>
+          </Subnodes>
+         </Node>
+        </Subnodes>
+       </Node>
+       <Node>
+        <Name>Class List</Name>
+        <Path>annotated.html</Path>
+        <Subnodes>
+         <Node>
+          <Name>AkAmbient</Name>
+          <Path>class_ak_ambient.html</Path>
+         </Node>
+         <Node>
+          <Name>AkAudioListener</Name>
+          <Path>class_ak_audio_listener.html</Path>
+         </Node>
+         <Node>
+          <Name>AkBank</Name>
+          <Path>class_ak_bank.html</Path>
+         </Node>
+         <Node>
+          <Name>AkBankManager</Name>
+          <Path>class_ak_bank_manager.html</Path>
+         </Node>
+         <Node>
+          <Name>AkEnvironment</Name>
+          <Path>class_ak_environment.html</Path>
+         </Node>
+         <Node>
+          <Name>AkEnvironment::AkEnvironment_CompareBySelectionAlgorithm</Name>
+          <Path>class_ak_environment_1_1_ak_environment___compare_by_selection_algorithm.html</Path>
+         </Node>
+         <Node>
+          <Name>AkEnvironmentPortal</Name>
+          <Path>class_ak_environment_portal.html</Path>
+         </Node>
+         <Node>
+          <Name>AkEvent</Name>
+          <Path>class_ak_event.html</Path>
+         </Node>
+         <Node>
+          <Name>AkEventCallbackMsg</Name>
+          <Path>struct_ak_event_callback_msg.html</Path>
+         </Node>
+         <Node>
+          <Name>AkGameObj</Name>
+          <Path>class_ak_game_obj.html</Path>
+         </Node>
+         <Node>
+          <Name>AkInitializer</Name>
+          <Path>class_ak_initializer.html</Path>
+         </Node>
+         <Node>
+          <Name>AkMemBankLoader</Name>
+          <Path>class_ak_mem_bank_loader.html</Path>
+         </Node>
+         <Node>
+          <Name>AkState</Name>
+          <Path>class_ak_state.html</Path>
+         </Node>
+         <Node>
+          <Name>AkSwitch</Name>
+          <Path>class_ak_switch.html</Path>
+         </Node>
+         <Node>
+          <Name>AkTerminator</Name>
+          <Path>class_ak_terminator.html</Path>
+         </Node>
+         <Node>
+          <Name>AkTriggerBase</Name>
+          <Path>class_ak_trigger_base.html</Path>
+         </Node>
+         <Node>
+          <Name>AkUtilities</Name>
+          <Path>class_ak_utilities.html</Path>
+         </Node>
+        </Subnodes>
+       </Node>
+       <Node>
+        <Name>Class Hierarchy</Name>
+        <Path>hierarchy.html</Path>
+        <Subnodes>
+         <Node>
+          <Name>AkAudioListener</Name>
+          <Path>class_ak_audio_listener.html</Path>
+         </Node>
+         <Node>
+          <Name>AkBank</Name>
+          <Path>class_ak_bank.html</Path>
+         </Node>
+         <Node>
+          <Name>AkBankManager</Name>
+          <Path>class_ak_bank_manager.html</Path>
+         </Node>
+         <Node>
+          <Name>AkEnvironment</Name>
+          <Path>class_ak_environment.html</Path>
+         </Node>
+         <Node>
+          <Name>AkEnvironment::AkEnvironment_CompareBySelectionAlgorithm</Name>
+          <Path>class_ak_environment_1_1_ak_environment___compare_by_selection_algorithm.html</Path>
+         </Node>
+         <Node>
+          <Name>AkEnvironmentPortal</Name>
+          <Path>class_ak_environment_portal.html</Path>
+         </Node>
+         <Node>
+          <Name>AkEvent</Name>
+          <Path>class_ak_event.html</Path>
+          <Subnodes>
+           <Node>
+            <Name>AkAmbient</Name>
+            <Path>class_ak_ambient.html</Path>
+           </Node>
+          </Subnodes>
+         </Node>
+         <Node>
+          <Name>AkEventCallbackMsg</Name>
+          <Path>struct_ak_event_callback_msg.html</Path>
+         </Node>
+         <Node>
+          <Name>AkGameObj</Name>
+          <Path>class_ak_game_obj.html</Path>
+         </Node>
+         <Node>
+          <Name>AkInitializer</Name>
+          <Path>class_ak_initializer.html</Path>
+         </Node>
+         <Node>
+          <Name>AkMemBankLoader</Name>
+          <Path>class_ak_mem_bank_loader.html</Path>
+         </Node>
+         <Node>
+          <Name>AkState</Name>
+          <Path>class_ak_state.html</Path>
+         </Node>
+         <Node>
+          <Name>AkSwitch</Name>
+          <Path>class_ak_switch.html</Path>
+         </Node>
+         <Node>
+          <Name>AkTerminator</Name>
+          <Path>class_ak_terminator.html</Path>
+         </Node>
+         <Node>
+          <Name>AkTriggerBase</Name>
+          <Path>class_ak_trigger_base.html</Path>
+         </Node>
+         <Node>
+          <Name>AkUtilities</Name>
+          <Path>class_ak_utilities.html</Path>
+         </Node>
+        </Subnodes>
+       </Node>
+       <Node>
+        <Name>Class Members</Name>
+        <Path>functions.html</Path>
+       </Node>
+      </Subnodes>
+    </Node>
+  </TOC>
+</DocSetNodes>
